@@ -1,6 +1,6 @@
 //Model
 const car = document.getElementById('carDiv');
-const terjeKjorer = new Audio('img/TerjeKjorer.mp3');
+const terjeKjorer = new Audio('img/terjeKjorer.mp3');
 const BliMedIBilen = new Audio('img/Bli_med_i_bilen.mp3');
 const kjreoverbestemor = new Audio('img/kjre_over_bestemor.mp3');
 const Dusuger = new Audio('img/Du_Tapte.mp3');
